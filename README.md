@@ -1,4 +1,4 @@
-# Hi, I'm Murali 👋
+# Hi, I'm Murali 
 
 I'm a senior data scientist based in India, passionate about applied machine learning, prompt engineering, and building practical AI solutions.
 
