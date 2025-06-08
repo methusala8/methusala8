@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Murali 👋
 
-<!--
-**methusala8/methusala8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior data scientist based in India, passionate about applied machine learning, prompt engineering, and building practical AI solutions.
 
-Here are some ideas to get you started:
+- 🔭 Currently exploring: LLM evaluation, AI security, and applied machine learning
+- ✍️ Writing on [kashipathi.com](https://kashipathi.com)
+- 🐦 Tweeting  at [@mkashipathi](https://twitter.com/mkashipathi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🔥 Featured Projects
+
+- [RAG demo on soft skills](https://github.com/methusala8/rag-softskills-demo) — Intro to RAG using custom database based on soft skills. 
